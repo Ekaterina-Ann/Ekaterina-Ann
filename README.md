@@ -9,6 +9,7 @@ PostgreSQL
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 - 📫 How to reach me: https://ekaterina.zbrishchak@yandex.ru
+- 📫 How to reach me: https://t.me/Kate_ann14
 
 
 <br><br>
