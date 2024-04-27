@@ -11,6 +11,11 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 - 📫 How to reach me: https://ekaterina.zbrishchak@yandex.ru
 - 📫 How to reach me: https://t.me/Kate_ann14
 
+- ### Connect with me:
+[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yandex.svg" />][twitter]
+
+<br />
+
 
 <br><br>
 <!--
