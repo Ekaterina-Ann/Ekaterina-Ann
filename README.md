@@ -8,14 +8,10 @@ PostgreSQL
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
-- 📫 How to reach me: https://ekaterina.zbrishchak@yandex.ru
-- 📫 How to reach me: https://t.me/Kate_ann14
-
 - ### Connect with me:
-[<img align="left" alt="opa_oz | e-mail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yandex.svg" />][twitter]
 
-<br />
-
+<p> <a href="mailto:kate-ann14@yandex.ru"><img align="center left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yandex.svg" ></a>[e-mail] <p>
+<p> <a href="https://t.me/Kate_ann14"><img align="upper left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" height=25></a>[Telegram] </p>
 
 <br><br>
 <!--
