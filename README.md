@@ -7,6 +7,10 @@ PostgreSQL
 
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+
+- 📫 How to reach me: https://ekaterina.zbrishchak@yandex.ru
+
+
 <br><br>
 <!--
 **Ekaterina-Ann/Ekaterina-Ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
